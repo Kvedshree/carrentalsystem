@@ -1,0 +1,1 @@
+Developed a Car Rental System using Java and Object-Oriented Programming (OOP) principles. Implemented concepts like encapsulation, inheritance, polymorphism to ensure scalability and maintainability. We can easily rent a car and return it after use. ArrayList Data structure is used here to store data.
